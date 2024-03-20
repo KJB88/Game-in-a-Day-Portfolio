@@ -1,5 +1,4 @@
-<div>
-<h1>Games Development Portfolio</h1>
+<div><h1>Games Development Portfolio</h1>
 This is the collection of all the projects for Games Development.
 </div>
 <div>
