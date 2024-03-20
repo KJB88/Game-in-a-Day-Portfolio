@@ -1,4 +1,4 @@
-<div><h1>Games Development Portfolio</h1>
+<div><h1>:video_game: Games Development Portfolio :video_game:</h1>
 This is the collection of all the projects for Games Development.
 </div>
 <div>
