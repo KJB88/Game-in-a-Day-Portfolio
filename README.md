@@ -6,7 +6,7 @@
   <h2>Projects</h2>
   <h3>Personal GD Library</h3>
       <ul>
-     <li><a href="https://github.com/KJB88/Fishing-02-03-2024">GDLib (for Unity)</a> - A collection of common programming patterns and useful helper classes for Unity Development.</li>
+     <li><a href="https://github.com/KJB88/GDLib_Unity">GDLib (for Unity)</a> - A collection of common programming patterns and useful helper classes for Unity Development.</li>
       </ul>
   <h3>'Game in a Day' Challenge</h3>
     <ul>
