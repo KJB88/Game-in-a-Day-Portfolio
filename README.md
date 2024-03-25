@@ -1,5 +1,6 @@
 <div align="center"><h1>:video_game: Games Development Portfolio :video_game:</h1>
-This is the collection of all the projects for Games Development.
+  <p><a href="http://www.LinkedIn.com/in/kevin-barr1988">LinkedIn</a> | <a href="http://kjb88.github.io">Portfolio</a> | <a href="mailto:kevinbarr.business@gmail.com">Email</a></p>
+<p>This is the collection of all the projects for Games Development.</p>
 </div>
 <div>
   <h2>Projects</h2>
